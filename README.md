@@ -1,2 +1,2 @@
 # menu_array_php
-menu_array_php
+Делаем меню с помощью массива
